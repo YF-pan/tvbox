@@ -395,7 +395,7 @@
     {
       "name": "ITV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YF-pan/tvbox/main/live_tset.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YF-pan/tvbox/main/live_test.txt",
       "playerType": 1
     }
   ]
